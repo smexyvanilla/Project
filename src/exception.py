@@ -33,4 +33,4 @@ class CustomException(Exception):
         a=4/0
     except Exception as e:
         logging.info("Division by zero")
-        raise CustomException(e, sys)>>>>>>>>>>>TO TESTIFY THE WORKING'''
+        raise CustomException(e, sys)    >>>>>>>>>>>TO TESTIFY THE WORKING'''
